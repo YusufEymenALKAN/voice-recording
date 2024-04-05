@@ -1,1 +1,7 @@
-
+.ses {
+    margin-top: 20%;
+    margin-left: 40%;
+    display: none;
+    visibility: hidden;
+    opacity: 0
+  }
